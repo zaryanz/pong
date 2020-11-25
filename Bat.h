@@ -5,7 +5,7 @@ class Bat {
 private:
     Vector2f m_Position;
     RectangleShape m_Shape;
-    float m_Speed = 500.0f;
+    float m_Speed = 700.0f;
 
     // movement state
     bool m_IsMovingRight = false;
